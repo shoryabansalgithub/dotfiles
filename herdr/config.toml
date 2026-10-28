@@ -1,0 +1,15 @@
+onboarding = false
+
+[keys]
+focus_pane_left  = "cmd+left"
+focus_pane_right = "cmd+right"
+focus_pane_up    = "cmd+up"
+split_vertical   = "cmd+r"
+split_horizontal = "cmd+d"
+new_tab   = "cmd+t"
+close_tab = "cmd+w"
+workspace_picker = "cmd+p"
+copy_mode = "cmd+y"
+
+[ui]
+agent_panel_sort = "spaces"
